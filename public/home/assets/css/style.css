@@ -1,0 +1,617 @@
+/*
+Custom css
+*/
+
+
+body {
+    background: #17181c;
+    background-image: url('../img/heng1g/fax/bg_red.jpg');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+body, body, h1, h2, h3, h4, h5, h6 {
+  font-family: 'Prompt', sans-serif !important;
+}
+span, p , li ,strong, option , label, input, a, b {
+  font-family: 'Prompt', sans-serif !important;
+}
+.bg-game-slot{
+  background-image: url('../img/home2/page3/Template-_v2.png');
+    /* background-position: center center; home/assets/img/page6/Rectangle.png */
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.bg_login{
+  position: relative;
+  background-image: url('../img/heng1g/page_1/login_box.png');
+  background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+  width: 340px;
+  height: 270px;
+}
+.w100{
+  width: 100%;
+}
+.mt-42{
+  margin-top: -42px;
+}
+.hi30{
+  height: 30px;
+  width: 65px;
+}
+.p-20{
+  padding: 15px;
+}
+.pt-10{
+  padding-top: 10px;
+}
+.box-black{
+  background: #000000;
+  border: 2px solid #deb368;
+  border-radius: 25px;
+  min-height:250px
+}
+.p-10{
+  padding: 12px;
+}
+.loader{
+  color: #ffffff;
+  font-size: 18px;
+}
+#loadingMessage{
+  color: #ffffff;
+  font-size: 18px;
+}
+.box-height-5{
+  height: 5px;
+}
+.text-table-to{
+  color: #ffffff;
+  font-size: 18px;
+  margin-bottom: 0px;
+}
+.text-table-to-w {
+  font-weight: 700;
+  color: #000000;
+  font-size: 12px;
+  margin-bottom: 0px;
+}
+.text-table-win-black{
+  color: #000000;
+  font-size: 20px;
+  font-weight: 700;
+  margin-top: 5px;
+}
+.text-table-name-game-w {
+  color: #000000;
+  font-size: 15px;
+  margin-top: -5px;
+  margin-bottom: 0px;
+  font-weight: 700;
+}
+.text-table-name-game-wv {
+  color: #000000;
+  font-size: 15px;
+  margin-top: -5px;
+  margin-bottom: 0px;
+  font-weight: 700;
+}
+.text-table-name-game{
+  color: #ffffff;
+  font-size: 12px;
+  margin-top: -5px;
+}
+.btn_sub{
+  position: relative;
+    z-index: 1;
+    margin-top: -65px;
+}
+.item_games{
+  width: 85px;
+  height: 85px;
+}
+.itemx2{
+  position: relative;
+  left: -95px;
+  top: -25px;
+}
+.itemx3{
+  position: relative;
+  left: -150px;
+  top: -15px;
+}
+.itemx4{
+  position: relative;
+  left: -155px;
+  top: 20px;
+}
+.itemx5{
+  position: relative;
+  left: -105px;
+  top: 40px;
+}
+.itemx6{
+  position: relative;
+  left: 0px;
+  top: 10px;
+}
+.img_playy {
+  right: 40px;
+  /* height: 550px; */
+  position: absolute;
+  bottom: -350px;
+  width: 200;
+  /* height: auto; */
+}
+.myuser_online{
+  position: absolute;
+    top: 855px;
+    width: 100px;
+}
+.chakra-container{
+    background-image: url('../img/heng1g/page_1/bg_1.png');
+    /* background-position: center center; */
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 370%;
+    height: 100%;
+    min-height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 26rem;
+    padding-left: 0rem;
+    padding-right: 0rem;
+  }
+  .chakra-container-page{
+    background-image: url('../img/BG_2.jpg');
+    /* background-position: center center; */
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 26rem;
+    padding-left: 0rem;
+    padding-right: 0rem;
+    min-height: 1200px;
+  }
+
+  .chakra-container-page3{
+    background-image: url('../img/heng1g/page 2/bg_2_2v2.png');
+    /* background-position: center center; */
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 370%;
+    height: 100%;
+    min-height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 26rem;
+    padding-left: 0rem;
+    padding-right: 0rem;
+
+  }
+
+
+  .chakra-container-page5{
+    background: url('../img/heng1g/page 3/bg 3.png') no-repeat center center fixed;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 800px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 25rem;
+    padding-left: 0rem;
+    padding-right: 0rem;
+
+  }
+  .chakra-container-page6{
+    background: url('../img/heng1g/page 4/bg 4.png') no-repeat center center fixed;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 800px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 25rem;
+    padding-left: 0rem;
+    padding-right: 0rem;
+
+  }
+
+  @media (min-width: 991px) {
+
+    /* .chakra-container-page3{
+      background: url('../img/heng1g/page 2/bg_2.png') no-repeat center center fixed;
+      background-size: contain;
+      background-position: center top;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      min-height: 800px;
+      width: 100%;
+      margin-left: auto;
+      margin-right: auto;
+      max-width: 26rem;
+      padding-left: 0rem;
+      padding-right: 0rem;
+
+    } */
+
+    .chakra-container-page5{
+      background: url('../img/heng1g/page 3/bg 3.png') no-repeat center center fixed;
+      background-size: contain;
+      background-position: center top;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      width: 100%;
+      margin-left: auto;
+      margin-right: auto;
+      max-width: 26rem;
+      padding-left: 0rem;
+      padding-right: 0rem;
+      min-height: 800px;
+
+    }
+
+    .chakra-container-page6{
+      background: url('../img/heng1g/page 4/bg 4.png') no-repeat center center fixed;
+      background-size: contain;
+      background-position: center top;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      width: 100%;
+      margin-left: auto;
+      margin-right: auto;
+      max-width: 26rem;
+      padding-left: 0rem;
+      padding-right: 0rem;
+      min-height: 800px;
+
+    }
+
+  }
+  .chakra-container-f{
+    width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 26rem;
+    padding-left: 0rem;
+    padding-right: 0rem;
+  }
+  .d-footer{
+    display: flex;
+    width: 100%;
+    position: fixed;
+    z-index: 1500;
+    left: 0px;
+    bottom: 0px;
+  }
+  .logo_website{
+    width: 100%;
+    padding: 30px;
+  }
+  .logo_website3{
+    width: 100%;
+    padding: 15px 80px 30px 80px;
+  }
+  .logo_website3x{
+    height: 150px;
+    padding: 0px;
+  }
+  .logo_website_slot{
+    width: 45%;
+    top:-20px;
+    position: relative;
+  }
+  .logo_website_game{
+    width: 40%;
+  }
+  .box-height-20{
+    height: 20px;
+  }
+  .box-height-10{
+    height: 10px;
+  }
+  .bg-footer{
+    width: 100%;
+    margin-inline: auto;
+    max-width: 100%;
+    padding-inline-start: 0.25rem;
+    padding-inline-end: 0.25rem;
+    padding: 0px;
+    background: #fff0;
+    background: url('../img/home2/page1/แถบ-Icon2.png');
+    background-position: center center;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+  .nav-footer-a{
+    display: flex;
+    flex-direction: column;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    cursor: pointer;
+    flex: 1 1 0%;
+    padding: 15px 15px 0px 15px;
+    color: #000 !important;
+    position: relative;
+    max-width: 120px!important;
+  }
+  .nav-footer-a i{
+    font-size: 30px;
+    color: #000 !important;
+  }
+  .nav-footer-a p{
+    font-size: 14px;
+    color: #fff !important;
+    margin-bottom: 0px;
+  }
+  .width-25 {
+    width: 25%;
+  }
+  .width-75 {
+    width: 65%;
+  }
+  .col-form-label{
+    text-align: end;
+    padding: 0px 10px 0px 0px;
+  }
+  .button_yellows {
+    border: none;
+    background: url('../img/LOGIN.png') no-repeat top left;
+    padding: 2px 8px;
+}
+.contain_img{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.contain_img_2{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: -40px ;
+}
+.text-yello{
+    color: #e0ac3e;
+    font-weight: 700;
+    font-size: 16px;
+    margin-top: -115px;
+}
+.text-yello2{
+    color: #e0ac3e;
+    font-weight: 700;
+    font-size: 16px;
+    margin-top: -103px;
+}
+.text-yello-p3{
+    color: #fff;
+    font-weight: 700;
+    font-size: 16px;
+    margin-top: -28px;
+}
+.text-yello-p4{
+    color: #fff;
+    font-weight: 700;
+    font-size: 16px;
+    margin-top: -35px;
+}
+.col-4-new{
+    padding-right: 10px !important;
+    padding-left: 10px !important;
+    min-height: 140px;
+}
+.col-6-new{
+    padding-right: 10px !important;
+    padding-left: 10px !important;
+}
+.text-racking-p4{
+    color: #fff;
+    font-weight: 700;
+    font-size: 24px;
+    margin-top: -70px;
+}
+.text-racking-room-p4{
+    color: #d9b03f;
+    font-weight: 400;
+    font-size: 9px;
+    margin-top: -20px;
+}
+.pad-l-r{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.text-white-p5{
+    color: #fff;
+    font-weight: 700;
+    font-size: 14px;
+    margin-top: -25px;
+}
+.text-online-p5{
+    color: #fff;
+    font-weight: 700;
+    font-size: 14px;
+}
+.bar_3_round_p5{
+    color: #fff;
+    font-weight: 500;
+    font-size: 14px;
+    margin-top: -28px;
+}
+.item_R-p5{
+    margin-top: 16px;
+    text-align: end;
+}
+.percen_p5{
+    color: #fff;
+    font-weight: 700;
+    font-size: 18px;
+}
+.text-yello-p5-stick{
+    color: #d9b03f;
+    font-weight: 700;
+    font-size: 16px;
+    margin-top: -28px;
+    font-style: italic;
+}
+.black_text_p5{
+    font-weight: 700;
+    font-size: 18px;
+    color: #000;
+    font-weight: 700;
+    margin-top: -30px;
+}
+.white_text_p5{
+    font-weight: 700;
+    font-size: 18px;
+    color: #fff;
+    font-weight: 700;
+    margin-top: -30px;
+}
+.gameName-p6{
+  height: 12px;
+    color: #fff;
+    font-weight: 600;
+    font-size: 9px;
+    margin-bottom: 0rem;
+}
+.winrate{
+    color: #fff;
+    font-weight: 700;
+    font-size: 10px;
+    margin-bottom: 0rem;
+    padding-top: 2px;
+}
+.percen_winrate{
+    color: #ff0000;
+    font-weight: 700;
+    font-size: 18px;
+    margin-bottom: 0rem;
+    -webkit-text-stroke: 0.5px #fff;
+    margin-top: -5px;
+    font-family: 'Geologica', sans-serif !important;
+}
+.text-white-pre-p5{
+    font-weight: 500;
+    font-size: 10px;
+    color: #fff;
+    font-weight: 700;
+    margin-top: -12px;
+    height: 12px;
+}
+.invalid-feedback {
+  display: block;
+  width: 100%;
+  margin-top: 0.25rem;
+  font-size: 80%;
+  color: #f54394;
+}
+.gd-warning {
+  color: #fff;
+  border: none;
+  background: #DF2669 linear-gradient(45deg, #24effe, #149be6);
+}
+.coin {
+  width: 44%;
+  -webkit-animation: scale 1.3s alternate infinite ease-in;
+  animation: scale 1.3s alternate infinite ease-in
+}
+
+@-webkit-keyframes scale {
+  0% {
+      -webkit-transform: scale(.9);
+      transform: scale(.9)
+  }
+
+  100% {
+      -webkit-transform: scale(1);
+      transform: scale(1)
+  }
+}
+
+@keyframes scale {
+  0% {
+      -webkit-transform: scale(.9);
+      transform: scale(.9)
+  }
+
+  100% {
+      -webkit-transform: scale(1);
+      transform: scale(1)
+  }
+}
+.logo_website4{
+  width: 100%;
+  padding: 15px 80px 10px 80px;
+}
+.modal-dialog {
+  height: 100%;
+  width: 600px;
+  display: flex;
+  align-items: center;
+}
+
+.modal-content {
+  margin: 0 auto;
+}
+.result_role{
+  width: 100%; height:38px
+}
+.mywin{
+  width: 55px; margin-top: -8px;
+}
+.box-height-40{
+  height: 80px;
+}
+.form-control-img{
+  position: relative;
+  top: -23px;
+    width: 250px;
+    margin-left: 22%;
+    border-width: 0;
+    height: 36px;
+    background-color: transparent;
+    font-size: 18px;
+}
+.form-control-img2{
+  position: relative;
+  top: 20px;
+    width: 250px;
+    margin-left: 22%;
+    border-width: 0;
+    height: 36px;
+    background-color: transparent;
+    font-size: 18px;
+}
+input[type="text"]
+{
+  font-size: 18px;
+  color: #fff;
+}
+input[type="password"]
+{
+  font-size: 18px;
+  color: #fff;
+}
+input:-webkit-autofill,
+  input:-webkit-autofill:focus {
+    transition: background-color 600000s 0s, color 600000s 0s;
+    font-size: 18px;
+  color: #fff;
+  }
+  input:-internal-autofill-previewed {
+    font-size: 22px !important;
+  }
+  .logo_website2 {
+    width: 100%;
+    padding: 25px 30px 15px 30px;
+}
